@@ -4,13 +4,13 @@
 ## Game Design Document
 ### Grand Theft Auto 8 (GTA8)
 
-Main Character: Nikole Belik
+Main Character: Nikole Bellic
 
 1. Overview:
-   Grand Theft Auto 8 (GTA8) is an action-adventure game set in an open-world environment, where players take on the role of Nikole Belik, a cunning and skilled criminal navigating through the criminal underworld of a fictional city. With a blend of intense action, immersive storytelling, and expansive gameplay mechanics, GTA8 aims to deliver an unforgettable gaming experience.
+   Grand Theft Auto 8 (GTA8) is an action-adventure game set in an open-world environment, where players take on the role of Nikole Bellic, a cunning and skilled criminal navigating through the criminal underworld of a fictional city. With a blend of intense action, immersive storytelling, and expansive gameplay mechanics, GTA8 aims to deliver an unforgettable gaming experience.
 
 2. Story:
-   Nikole Belik, a former street racer turned skilled thief, returns to her hometown after a long absence, only to find it overrun by rival criminal factions. Fueled by a desire for revenge and driven by her own ambitions, Nikole sets out to establish her dominance in the city's criminal hierarchy. As she climbs the ranks, she uncovers long-buried secrets and faces moral dilemmas that challenge her loyalty and sense of justice.
+   Nikole Bellic, a former street racer turned skilled thief, returns to her hometown after a long absence, only to find it overrun by rival criminal factions. Fueled by a desire for revenge and driven by her own ambitions, Nikole sets out to establish her dominance in the city's criminal hierarchy. As she climbs the ranks, she uncovers long-buried secrets and faces moral dilemmas that challenge her loyalty and sense of justice.
 
 3. Gameplay Features:
    - Open-World Environment: Explore a vast and dynamic city filled with bustling streets, towering skyscrapers, and hidden alleyways.
