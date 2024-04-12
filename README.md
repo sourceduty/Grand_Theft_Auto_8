@@ -1,5 +1,4 @@
-![Grand Theft Auto 8 Concept](https://github.com/sourceduty/Grand_Theft_Auto_8/assets/123030236/80840018-cef0-4ae1-b8d1-4998a0bf62cd)
-
+![GTA8](https://github.com/sourceduty/Grand_Theft_Auto_8/assets/123030236/854631c7-a176-4ac4-8f4d-4ed9bd29031c)
 
 ## Game Design Document
 ### Grand Theft Auto 8 (GTA8)
@@ -23,20 +22,22 @@ Main Character: Nikole Bellic
 4. Setting:
    The game is set in a fictional city inspired by iconic urban landscapes, blending elements of modern metropolises with a gritty, noir atmosphere. Players will navigate through diverse neighborhoods, each with its own distinct personality and challenges.
 
-5. Visuals and Audio:
+![Grand Theft Auto 8 Concept](https://github.com/sourceduty/Grand_Theft_Auto_8/assets/123030236/80840018-cef0-4ae1-b8d1-4998a0bf62cd)
+
+6. Visuals and Audio:
    GTA8 boasts stunning graphics and realistic sound design, capturing the vibrancy and chaos of urban life. From neon-lit streets to thundering gunfire, every detail is meticulously crafted to enhance the player's immersion.
 
-6. Development Estimate:
+7. Development Estimate:
    - Pre-Production: 6 months
    - Production: 2 years
    - Post-Production: 6 months
 
-7. Target Platforms:
+8. Target Platforms:
    - PlayStation 5
    - Xbox Series X
    - PC
 
-8. Team:
+9. Team:
    - Game Director
    - Lead Designer
    - Writers
@@ -45,12 +46,12 @@ Main Character: Nikole Bellic
    - Sound Designers
    - Quality Assurance Testers
 
-9. Monetization:
+10. Monetization:
    - Retail Sales
    - Downloadable Content (DLC) Packs
    - In-Game Purchases (Cosmetic Items, Currency)
 
-10. Conclusion:
+11. Conclusion:
     Grand Theft Auto 8 (GTA8) aims to push the boundaries of interactive entertainment, delivering a thrilling and immersive gaming experience that puts players in the shoes of a complex and compelling protagonist. With its engaging storyline, diverse gameplay mechanics, and stunning visuals, GTA8 is poised to become a landmark title in the iconic franchise.
 
 ![1989 Chrome Riveted Panel Lowrider Suburban](https://github.com/sourceduty/Grand_Theft_Auto_8/assets/123030236/6d1550f2-63c4-4fe3-9748-31c3d4c4abcf)
