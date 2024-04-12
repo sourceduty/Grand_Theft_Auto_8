@@ -22,8 +22,6 @@ Main Character: Nikole Bellic
 4. Setting:
    The game is set in a fictional city inspired by iconic urban landscapes, blending elements of modern metropolises with a gritty, noir atmosphere. Players will navigate through diverse neighborhoods, each with its own distinct personality and challenges.
 
-![Grand Theft Auto 8 Concept](https://github.com/sourceduty/Grand_Theft_Auto_8/assets/123030236/80840018-cef0-4ae1-b8d1-4998a0bf62cd)
-
 6. Visuals and Audio:
    GTA8 boasts stunning graphics and realistic sound design, capturing the vibrancy and chaos of urban life. From neon-lit streets to thundering gunfire, every detail is meticulously crafted to enhance the player's immersion.
 
@@ -54,5 +52,4 @@ Main Character: Nikole Bellic
 11. Conclusion:
     Grand Theft Auto 8 (GTA8) aims to push the boundaries of interactive entertainment, delivering a thrilling and immersive gaming experience that puts players in the shoes of a complex and compelling protagonist. With its engaging storyline, diverse gameplay mechanics, and stunning visuals, GTA8 is poised to become a landmark title in the iconic franchise.
 
-![1989 Chrome Riveted Panel Lowrider Suburban](https://github.com/sourceduty/Grand_Theft_Auto_8/assets/123030236/6d1550f2-63c4-4fe3-9748-31c3d4c4abcf)
-
+![Grand Theft Auto 8 Concept](https://github.com/sourceduty/Grand_Theft_Auto_8/assets/123030236/80840018-cef0-4ae1-b8d1-4998a0bf62cd)
