@@ -52,4 +52,13 @@ Main Character: Nikole Bellic
 11. Conclusion:
     Grand Theft Auto 8 (GTA8) aims to push the boundaries of interactive entertainment, delivering a thrilling and immersive gaming experience that puts players in the shoes of a complex and compelling protagonist. With its engaging storyline, diverse gameplay mechanics, and stunning visuals, GTA8 is poised to become a landmark title in the iconic franchise.
 
+#
+
+![GTA8 Urban Beach Tank](https://github.com/sourceduty/Grand_Theft_Auto_8/assets/123030236/e030dbca-ef8d-4438-82b7-9e3c41003a3b)
+
+#
+
 ![Grand Theft Auto 8 Concept](https://github.com/sourceduty/Grand_Theft_Auto_8/assets/123030236/80840018-cef0-4ae1-b8d1-4998a0bf62cd)
+
+***
+🛈 This information is free and open-source; anyone can redistribute it and/or modify.
