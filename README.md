@@ -1,4 +1,4 @@
-![GTA8](https://github.com/sourceduty/Grand_Theft_Auto_8/assets/123030236/854631c7-a176-4ac4-8f4d-4ed9bd29031c)
+![GTA6 Game Design](https://github.com/user-attachments/assets/a092d399-9801-4064-b7c0-6f4317b57395)
 
 ## Game Design Document
 ### Grand Theft Auto 8 (GTA8)
