@@ -64,6 +64,17 @@ In contrast, GTA5, released in 2013, builds upon the foundation set by GTA4 but 
 Overall, while both games use the RAGE engine, the transition from GTA4 to GTA5 illustrates Rockstar's evolving approach to vehicle damage physics. GTA4's emphasis on realism and weighty handling makes crashes feel consequential and immersive, whereas GTA5 opts for a blend of realism and enhanced playability, ensuring that while damage looks realistic, it does not overly hinder the gameplay experience. This evolution reflects broader trends in game design, where striking a balance between simulation and fun is crucial for player engagement.
 
 #
+### Vehicle Wheelies
+
+![Wheelie](https://github.com/user-attachments/assets/1b52d705-d118-49d1-b7b2-fcecf12e43fd)
+
+In "Grand Theft Auto VI" (GTA VI), the physics behind performing a wheelie with a car is expected to become even more sophisticated, combining advanced vehicle dynamics, enhanced game mechanics, and improved player interactions. The anticipated physics engine in GTA VI will likely offer a more realistic simulation of real-world behaviors, allowing players to execute stunts like wheelies with greater accuracy. When a player accelerates a high-power rear-wheel-drive car rapidly, the improved physics engine will calculate a more precise shift in weight distribution towards the rear of the vehicle. This shift will cause the front wheels to lift off the ground if the rear wheels generate sufficient torque and traction. Factors such as engine torque, vehicle weight, and suspension setup will continue to play crucial roles in determining the ease and duration of a wheelie.
+
+Executing a successful wheelie in GTA VI will probably require players to utilize cars with high horsepower and excellent rear-wheel traction. Muscle cars will remain popular for this stunt due to their powerful engines and rear-wheel-drive configurations. Players will need to master the balance of throttle control to maintain the wheelie; excessive acceleration could flip the car backward, while insufficient acceleration will bring the front wheels back down. The enhanced physics engine in GTA VI will model this balance more accurately by simulating the forces acting on the car, including gravity, acceleration, and friction. Additionally, players will have more extensive customization options, such as advanced engine tuning, detailed suspension adjustments, and weight management to optimize their vehicles for wheelie performance.
+
+Environmental factors in GTA VI will likely have an even greater impact on wheelie physics. The type of road surface, incline, and dynamic weather conditions will affect traction and stability in more nuanced ways. Smooth, flat surfaces will continue to offer the best conditions for wheelies, while uneven or slippery surfaces will present new challenges. Players will seek out optimal locations, such as long, straight roads or dedicated drag strips within the game world, to perform extended wheelies. The anticipated advancements in GTA VI's physics engine will create a more immersive and realistic experience for players, making stunts like wheelies an even more thrilling and integral aspect of gameplay.
+
+#
 ### Related Links
 
 [Gamer Guide](https://chat.openai.com/g/g-Rtn7s4qGb-gamer-guide)
