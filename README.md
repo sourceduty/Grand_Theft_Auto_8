@@ -79,6 +79,8 @@ Overall, while both games use the RAGE engine, the transition from GTA4 to GTA5 
 [Game Development](https://github.com/sourceduty/Game_Development)
 <br>
 [Game Consoles](https://github.com/sourceduty/Game_Consoles)
+<br>
+[Cheat Codes](https://github.com/sourceduty/Cheat_Codes)
 
 #
 
