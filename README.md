@@ -73,6 +73,12 @@ Overall, while both games use the RAGE engine, the transition from GTA4 to GTA5 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Bias Analyzer](https://github.com/sourceduty/Bias_Analyzer)
+<br>
+[PC Design](https://github.com/sourceduty/PC_Design)
+<br>
+[Game Development](https://github.com/sourceduty/Game_Development)
+<br>
+[Game Consoles](https://github.com/sourceduty/Game_Consoles)
 
 #
 
