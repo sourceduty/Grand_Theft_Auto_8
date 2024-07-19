@@ -64,6 +64,17 @@ In contrast, GTA5, released in 2013, builds upon the foundation set by GTA4 but 
 Overall, while both games use the RAGE engine, the transition from GTA4 to GTA5 illustrates Rockstar's evolving approach to vehicle damage physics. GTA4's emphasis on realism and weighty handling makes crashes feel consequential and immersive, whereas GTA5 opts for a blend of realism and enhanced playability, ensuring that while damage looks realistic, it does not overly hinder the gameplay experience. This evolution reflects broader trends in game design, where striking a balance between simulation and fun is crucial for player engagement.
 
 #
+### Related Links
+
+[Gamer Guide](https://chat.openai.com/g/g-Rtn7s4qGb-gamer-guide)
+<br>
+[PC Game Radar](https://chat.openai.com/g/g-Er7chyOmE-pc-game-radar)
+<br>
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Bias Analyzer](https://github.com/sourceduty/Bias_Analyzer)
+
+#
 
 ![GTA8 Urban Beach Tank](https://github.com/sourceduty/Grand_Theft_Auto_8/assets/123030236/e030dbca-ef8d-4438-82b7-9e3c41003a3b)
 
