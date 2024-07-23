@@ -89,6 +89,10 @@ GTA5-Mods.com is a popular site where players can download a wide variety of mod
 
 GTAForums is a community-driven platform where players can discuss and get support for GTA5 mods. It serves as a gathering place for modders to share their creations, troubleshoot issues, and collaborate on new projects. The forums are filled with tutorials, guides, and threads dedicated to various aspects of modding, making it an invaluable resource for both novice and experienced modders. By fostering a collaborative environment, GTAForums helps maintain a robust and innovative modding community that continually pushes the boundaries of what’s possible in GTA5.
 
+<br>
+
+> Alex: "*Official Rockstar game mods might be good.*"
+
 #
 ### Related Links
 
