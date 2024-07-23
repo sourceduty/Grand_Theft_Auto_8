@@ -75,6 +75,21 @@ Executing a successful wheelie in GTA VI will probably require players to utiliz
 Environmental factors in GTA VI will likely have an even greater impact on wheelie physics. The type of road surface, incline, and dynamic weather conditions will affect traction and stability in more nuanced ways. Smooth, flat surfaces will continue to offer the best conditions for wheelies, while uneven or slippery surfaces will present new challenges. Players will seek out optimal locations, such as long, straight roads or dedicated drag strips within the game world, to perform extended wheelies. The anticipated advancements in GTA VI's physics engine will create a more immersive and realistic experience for players, making stunts like wheelies an even more thrilling and integral aspect of gameplay.
 
 #
+### Mods
+
+![Mods](https://github.com/user-attachments/assets/2a83f9a0-35fe-4320-97e9-add6ec569247)
+
+Rockstar Games, the developer behind GTA5, does not create or officially offer game mods for GTA5. The company primarily focuses on developing and maintaining the base game and its official updates and expansions. While Rockstar acknowledges the modding community and the creativity it brings to the game, it has chosen not to involve itself directly in the creation or distribution of mods. This hands-off approach allows modders the freedom to explore and expand the game in ways that might not align with Rockstar’s vision or development priorities.
+
+Script Hook V, ASI Loader, and Native Trainer are crucial tools in the modding community for GTA5. Script Hook V allows the game to run custom scripts, enabling modders to create and execute new gameplay features. ASI Loader, which comes with Script Hook V, is essential for loading .asi plugins into the game. Native Trainer, also bundled with Script Hook V, offers a suite of cheats and customization options, providing players with easy access to various game modifications. These tools form the backbone of many modding endeavors, empowering players to tailor their gaming experience to their liking.
+
+OpenIV is another indispensable tool for modding GTA5. It serves as a multi-purpose editor and archive manager, allowing users to access and modify the game’s files. With OpenIV, modders can install custom textures, replace in-game models, and make other detailed changes to the game’s assets. The tool also includes features like the ASI Loader and OpenIV.ASI, which facilitate the integration of mods into the game. OpenIV's comprehensive functionality makes it a vital resource for anyone looking to delve deeply into GTA5 modding.
+
+GTA5-Mods.com is a popular site where players can download a wide variety of mods for GTA5. From new vehicles and weapons to complete gameplay overhauls, the site hosts an extensive collection of modifications created by a vibrant community of modders. The user-friendly interface and categorization of mods make it easy for players to find and install their desired modifications. This site has become a central hub for mod enthusiasts, offering a plethora of options to enhance and personalize the GTA5 experience.
+
+GTAForums is a community-driven platform where players can discuss and get support for GTA5 mods. It serves as a gathering place for modders to share their creations, troubleshoot issues, and collaborate on new projects. The forums are filled with tutorials, guides, and threads dedicated to various aspects of modding, making it an invaluable resource for both novice and experienced modders. By fostering a collaborative environment, GTAForums helps maintain a robust and innovative modding community that continually pushes the boundaries of what’s possible in GTA5.
+
+#
 ### Related Links
 
 [Gamer Guide](https://chat.openai.com/g/g-Rtn7s4qGb-gamer-guide)
